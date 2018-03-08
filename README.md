@@ -2,10 +2,6 @@
 A simple todo API made with NodeJS, ExpressJS and MongoDB. Can be used as a back-end for learning front-end technologies without making a standalone API for that purpose.
 
 
-## Download Instruction
-
-Run `git clone https://github.com/nomanHasan/todo-api` to download the project to your computer.
-
 
 ## Database Setup
 
